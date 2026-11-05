@@ -1,3 +1,4 @@
+//Привет
 package ru.yandex.practicum.contacts;
 
 import org.junit.Test;
